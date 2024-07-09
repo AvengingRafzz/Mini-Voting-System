@@ -88,6 +88,6 @@ to discuss what you would like to change.
 Please make sure to update tests as appropriate.
 
 
-# Project Cedits
+# Project Credits
 
 Rafan R. Nadiadwala: https://www.linkedin.com/in/rafan-nadiadwala-062b70262
